@@ -1,7 +1,3 @@
-# 💫 About Me:
-I am a 1st year CSE student passionate about coding and technology . <br>Currently learning C , Python and DSA ,<br>I enjoy building projects , solving problems and continuously improving my skills .<br>Aspiring Software Engineer .<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ll_miss_sahana_ll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahana-dev17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahanashetty1702@gmail.com) 
 
